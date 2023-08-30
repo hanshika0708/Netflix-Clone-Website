@@ -1,0 +1,35 @@
+*
+{
+    background-color: black;
+}
+h1
+{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+img
+{
+    width:150px;
+    height:150px;
+}
+label
+{
+    color: grey;
+    font-size: large;
+}
+.align
+{
+    margin-top: 15%;
+    margin-left: 17%;
+    margin-right: 17%;
+}
+.sides
+{
+    padding-left: 5%;
+}
+.h:hover
+{
+    background-color: white;
+}
